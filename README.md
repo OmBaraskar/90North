@@ -1,9 +1,5 @@
 # Responsive Webpage Project
 
-This project is a beautiful and responsive webpage with a fixed navbar, three-column layout, and a footer. It demonstrates modern web design principles and responsive behavior across different screen sizes.
-
-## Project Structure
-
 The project consists of the following files:
 
 - `index.html`: The main HTML file
@@ -36,28 +32,3 @@ To view the webpage:
      - Navigate to the project directory in your terminal
      - Run `http-server`
      - Open your browser and visit `http://localhost:8080`
-
-## Features
-
-- Fixed navbar that stays at the top when scrolling
-- Responsive three-column layout (left menu, main content, right panel)
-- Collapsible left menu on mobile devices
-- Beautiful card design in the main content area
-- Responsive footer
-
-## Customization
-
-You can easily customize the colors and styles by modifying the CSS variables in the `:root` selector in the `styles.css` file.
-
-## Browser Compatibility
-
-This project is designed to work on modern web browsers. It has been tested on the latest versions of Chrome, Firefox, Safari, and Edge.
-
-## Contributing
-
-Feel free to fork this project and submit pull requests for any improvements or additional features you'd like to add.
-
-## License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
